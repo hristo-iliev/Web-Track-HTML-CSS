@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\02.NotesTable\bin\02.NotesTable.dll.config
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\02.NotesTable\bin\02.NotesTable.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\02.NotesTable\bin\02.NotesTable.pdb
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\02.NotesTable\obj\Debug\02.NotesTable.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\02.NotesTable\obj\Debug\02.NotesTable.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\02.NotesTable\obj\Debug\02.NotesTable.pdb

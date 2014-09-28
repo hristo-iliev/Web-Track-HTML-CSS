@@ -1,0 +1,38 @@
+﻿body{
+    font-family: arial, verdana;
+    font-weight:bolder;
+    font-size:1.35em;
+}
+
+img {
+    width:8em;
+    height:auto;
+}
+
+fieldset {
+    text-align:center;
+    border:2px solid black;
+}
+
+table.base {
+    border:2px solid black;
+    float: left; width: 30em;
+    
+}
+
+hr {
+    border:1px solid black;
+}
+
+nav {
+    text-align:center;
+    font-size:2em;
+}
+
+input.range {
+    width:15em;
+}
+
+div {
+    float: left; width: auto; margin:12em 0 0 5em; height:auto;
+}

@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\3. Side-Tower\bin\_3.Side_Tower.dll.config
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\3. Side-Tower\bin\_3.Side_Tower.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\3. Side-Tower\bin\_3.Side_Tower.pdb
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\3. Side-Tower\obj\Debug\3. Side-Tower.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\3. Side-Tower\obj\Debug\_3.Side_Tower.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\3. Side-Tower\obj\Debug\_3.Side_Tower.pdb

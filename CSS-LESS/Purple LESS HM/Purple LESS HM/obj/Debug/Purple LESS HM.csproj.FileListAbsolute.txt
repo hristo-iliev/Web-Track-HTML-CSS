@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\Purple LESS HM\Purple LESS HM\bin\Purple LESS HM.dll.config
+D:\ПРОГРАМИСТ\WEB\Purple LESS HM\Purple LESS HM\bin\Purple LESS HM.dll
+D:\ПРОГРАМИСТ\WEB\Purple LESS HM\Purple LESS HM\bin\Purple LESS HM.pdb
+D:\ПРОГРАМИСТ\WEB\Purple LESS HM\Purple LESS HM\obj\Debug\Purple LESS HM.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\WEB\Purple LESS HM\Purple LESS HM\obj\Debug\Purple LESS HM.dll
+D:\ПРОГРАМИСТ\WEB\Purple LESS HM\Purple LESS HM\obj\Debug\Purple LESS HM.pdb

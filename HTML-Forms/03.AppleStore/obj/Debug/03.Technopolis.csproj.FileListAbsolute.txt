@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\03.AppleStore\bin\03.AppleStore.dll.config
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\03.AppleStore\bin\03.AppleStore.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\03.AppleStore\bin\03.AppleStore.pdb
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\03.AppleStore\obj\Debug\03.Technopolis.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\03.AppleStore\obj\Debug\03.AppleStore.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\03.AppleStore\obj\Debug\03.AppleStore.pdb

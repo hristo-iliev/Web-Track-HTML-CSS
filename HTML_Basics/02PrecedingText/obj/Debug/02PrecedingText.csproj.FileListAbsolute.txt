@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\HTML_Basics\02PrecedingText\bin\02PrecedingText.dll.config
+c:\users\hristo\documents\visual studio 2013\Projects\HTML_Basics\02PrecedingText\bin\02PrecedingText.dll
+c:\users\hristo\documents\visual studio 2013\Projects\HTML_Basics\02PrecedingText\bin\02PrecedingText.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\HTML_Basics\02PrecedingText\obj\Debug\02PrecedingText.dll
+c:\users\hristo\documents\visual studio 2013\Projects\HTML_Basics\02PrecedingText\obj\Debug\02PrecedingText.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\HTML_Basics\02PrecedingText\obj\Debug\02PrecedingText.csprojResolveAssemblyReference.cache

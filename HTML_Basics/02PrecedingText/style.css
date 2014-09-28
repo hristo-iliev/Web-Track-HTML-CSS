@@ -1,0 +1,32 @@
+﻿
+body.sc-font {
+    font-family: Arial,Helvetica,sans-serif;
+}
+
+section.line-hght {
+    line-height: 1.7em;
+}
+
+ol.I {
+    list-style-type: upper-roman;
+}
+
+ol.a {
+    list-style-type: lower-alpha;
+}
+
+ol.num {
+    list-style-type: decimal;
+}
+
+ul.cir {
+    list-style-type: circle;
+}
+
+ul.sq {
+    list-style-type: square;
+}
+
+ul.ds {
+    list-style-type: disc;
+}

@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\HTML-Semantic\01.Refactoring-Homework\bin\01.Refactoring-Homework.dll.config
+D:\ПРОГРАМИСТ\WEB\HTML-Semantic\01.Refactoring-Homework\bin\01.Refactoring-Homework.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Semantic\01.Refactoring-Homework\bin\01.Refactoring-Homework.pdb
+D:\ПРОГРАМИСТ\WEB\HTML-Semantic\01.Refactoring-Homework\obj\Debug\01.Refactoring-Homework.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\WEB\HTML-Semantic\01.Refactoring-Homework\obj\Debug\01.Refactoring-Homework.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Semantic\01.Refactoring-Homework\obj\Debug\01.Refactoring-Homework.pdb

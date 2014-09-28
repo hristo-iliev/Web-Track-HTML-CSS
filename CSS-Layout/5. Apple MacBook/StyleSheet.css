@@ -1,0 +1,71 @@
+﻿body {
+  font-family: Verdana, Geneva, 'DejaVu Sans', sans-serif;
+  font-size: 20px;
+}
+body nav ul {
+  list-style-type: none;
+  text-align: center;
+  position: relative;
+  margin: 0;
+}
+body nav ul li {
+  display: inline;
+  text-align: center;
+}
+body nav ul a {
+  color: #00ADEF;
+  font-weight: bold;
+  font-size: 1.8em;
+}
+body section {
+  border: 2px solid black;
+  display: table;
+  padding: 0.4em 0.2em 0.8em 0.2em;
+  position: relative;
+  float: left;
+}
+body section fieldset {
+  border: 2px solid black;
+}
+body section fieldset img {
+  width: 150px;
+}
+body section fieldset legend {
+  text-align: center;
+}
+body section .table {
+  display: table;
+}
+body section .row {
+  display: table-row;
+}
+body section .cell {
+  display: table-cell;
+}
+body section .center {
+  vertical-align: middle;
+}
+body section .center span {
+  line-height: 1.5em;
+}
+body aside {
+  display: inline-block;
+  margin: 4em 0 0 2em;
+}
+body aside span {
+  font-size: 1.5em;
+  line-height: 2em;
+  letter-spacing: -1px;
+}
+body aside input[type=range] {
+  width: 19em;
+  margin-left: 1em;
+}
+body hr {
+  color: black;
+  background-color: black;
+  height: 2px;
+  width: 98%;
+  border: none;
+}
+/*# sourceMappingURL=StyleSheet.css.map */

@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\CSS-Overview\2. International Table\bin\_2.International_Table.dll.config
+D:\ПРОГРАМИСТ\WEB\CSS-Overview\2. International Table\bin\_2.International_Table.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Overview\2. International Table\bin\_2.International_Table.pdb
+D:\ПРОГРАМИСТ\WEB\CSS-Overview\2. International Table\obj\Debug\2. International Table.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\WEB\CSS-Overview\2. International Table\obj\Debug\_2.International_Table.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Overview\2. International Table\obj\Debug\_2.International_Table.pdb

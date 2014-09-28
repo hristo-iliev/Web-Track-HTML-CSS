@@ -1,0 +1,37 @@
+﻿a {
+    text-decoration:none;
+}
+
+a:hover {
+    text-decoration:underline;
+}
+
+body>ul>li>a {
+    color:black;
+
+}
+
+body>ul>li:hover>.sub {
+    display:block;
+    position:relative;
+    left:-2em;
+}
+
+.sub>li:hover .sub-sub {
+    display:block;
+    position:relative;
+    left:-2em;
+}
+
+.sub a {
+    color:grey;
+}
+
+.sub, .sub-sub {
+    display:none;
+}
+
+ul {
+    list-style-type:none;
+}
+

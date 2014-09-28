@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\01.PersonalData-WebForm\bin\01.PersonalData-WebForm.dll.config
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\01.PersonalData-WebForm\bin\01.PersonalData-WebForm.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\01.PersonalData-WebForm\bin\01.PersonalData-WebForm.pdb
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\01.PersonalData-WebForm\obj\Debug\01.PersonalData-WebForm.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\01.PersonalData-WebForm\obj\Debug\01.PersonalData-WebForm.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\01.PersonalData-WebForm\obj\Debug\01.PersonalData-WebForm.pdb

@@ -1,0 +1,27 @@
+﻿body {
+    background-color:#CCFFFF;
+    font-size:1.3em;
+}
+
+span {
+    font-weight:bolder;
+}
+
+img {
+    width: 20%;
+    height: auto;
+}
+
+ul.doge-info {
+    list-style-type:none;
+    margin:0em;
+    padding:0em;
+}
+
+dt {
+    font-style:italic;
+}
+
+dd {
+    padding-bottom:1em;
+}

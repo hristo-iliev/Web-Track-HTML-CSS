@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\5. Apple MacBook\bin\_5.Apple_MacBook.dll.config
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\5. Apple MacBook\bin\_5.Apple_MacBook.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\5. Apple MacBook\bin\_5.Apple_MacBook.pdb
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\5. Apple MacBook\obj\Debug\5. Apple MacBook.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\5. Apple MacBook\obj\Debug\_5.Apple_MacBook.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\5. Apple MacBook\obj\Debug\_5.Apple_MacBook.pdb

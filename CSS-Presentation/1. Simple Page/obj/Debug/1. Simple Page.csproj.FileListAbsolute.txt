@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\1. Simple Page\bin\_1.Simple_Page.dll.config
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\1. Simple Page\bin\_1.Simple_Page.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\1. Simple Page\bin\_1.Simple_Page.pdb
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\1. Simple Page\obj\Debug\1. Simple Page.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\1. Simple Page\obj\Debug\_1.Simple_Page.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\1. Simple Page\obj\Debug\_1.Simple_Page.pdb

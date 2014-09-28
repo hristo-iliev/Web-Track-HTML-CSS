@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\HTML-Tables\01.1.FreshFruits\bin\01.1.FreshFruits.dll.config
+D:\ПРОГРАМИСТ\WEB\HTML-Tables\01.1.FreshFruits\bin\01.1.FreshFruits.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Tables\01.1.FreshFruits\bin\01.1.FreshFruits.pdb
+D:\ПРОГРАМИСТ\WEB\HTML-Tables\01.1.FreshFruits\obj\Debug\01.1.FreshFruits.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\WEB\HTML-Tables\01.1.FreshFruits\obj\Debug\01.1.FreshFruits.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Tables\01.1.FreshFruits\obj\Debug\01.1.FreshFruits.pdb

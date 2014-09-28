@@ -1,0 +1,61 @@
+﻿body, div {
+    margin:0;
+    padding:0;
+    font-size:13px;
+
+}
+
+div#wrapper {
+    width:419px;
+    height:538px;
+    background-color:#EEEEEE;
+}
+
+h1 {
+    font-size:1.5em;
+    text-decoration:none;
+    font-weight:100;
+    margin:0;
+    padding:20px;
+    
+}
+
+a{
+    text-decoration:none;
+    font-weight:bold;
+    color:black;
+}
+img {
+    width:130px;
+    height:85px;
+    border:1px solid grey;
+    float:left;
+    margin:15px;
+}
+
+#wrapper>div {
+    background-color:white;
+    width:384px;
+    height:120px;
+    border:1px solid grey;
+    margin:1.5em;
+}
+
+#just-web {
+    padding-bottom:10px;
+}
+
+button {
+    background-color:#8A0000;
+    background: url(/images/buttonss.png) no-repeat;
+    width:70px;
+    height:25px;
+    color:white;
+    border:2px outset #ca4d4d;
+    
+}
+
+div.butt {
+    position:relative;
+    right:-70px;
+}

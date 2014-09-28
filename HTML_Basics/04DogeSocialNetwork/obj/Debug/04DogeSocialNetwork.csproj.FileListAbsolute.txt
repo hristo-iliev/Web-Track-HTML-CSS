@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\HTML_Basics\04DogeSocialNetwork\bin\04DogeSocialNetwork.dll.config
+D:\ПРОГРАМИСТ\WEB\HTML_Basics\04DogeSocialNetwork\bin\04DogeSocialNetwork.dll
+D:\ПРОГРАМИСТ\WEB\HTML_Basics\04DogeSocialNetwork\bin\04DogeSocialNetwork.pdb
+D:\ПРОГРАМИСТ\WEB\HTML_Basics\04DogeSocialNetwork\obj\Debug\04DogeSocialNetwork.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\WEB\HTML_Basics\04DogeSocialNetwork\obj\Debug\04DogeSocialNetwork.dll
+D:\ПРОГРАМИСТ\WEB\HTML_Basics\04DogeSocialNetwork\obj\Debug\04DogeSocialNetwork.pdb

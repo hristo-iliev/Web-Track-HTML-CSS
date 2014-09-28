@@ -1,0 +1,14 @@
+﻿
+ul.dash-ul {
+    list-style-type: none;
+    margin: 0em;
+    padding-left: 0em;
+}
+
+li:before {
+    content: " - ";
+}
+
+section.padded {
+    padding-bottom: 1em;
+}

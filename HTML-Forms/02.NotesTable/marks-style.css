@@ -1,0 +1,7 @@
+﻿table, td, th
+{
+border:1px;
+border-color:grey;
+border-spacing:0em;
+border-style:outset;
+}

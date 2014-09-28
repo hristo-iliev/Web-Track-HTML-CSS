@@ -1,0 +1,234 @@
+﻿body {
+    font-family:Verdana, Geneva, 'DejaVu Sans', sans-serif;
+    background-color:#F1F1F1;
+    font-size:12px;
+    border:1px double gray;
+    outline:2px solid black;
+    margin:0;
+    padding:5px;
+    height:800px;
+
+    nav {
+        display:inline-block;
+        position:relative;
+        span {
+
+            img{
+            width:20px;
+            vertical-align:bottom;
+            }
+
+            a {
+                padding-left:5px;
+                text-decoration:none;
+                color:black;
+                font-weight:bolder;
+                vertical-align:central;
+            }
+        }
+
+        ul {
+            list-style-type:none;
+            padding:0;
+
+            h3 {
+                color:#900B09;
+                padding:0;
+                margin:0;
+                text-shadow:0 1px #810a08;
+            }
+
+            a {
+                text-decoration:none;
+                color:black;
+                text-shadow:0 1px #808080;
+
+                &:hover {
+                    text-decoration:underline;
+                }
+            }
+
+        }
+        
+    }
+
+    section {
+        border: 1px solid #808080;
+        background-color:white;
+        position:absolute;
+        top:5px;
+        left:250px;
+        padding:5px;
+        width:700px;
+        
+
+        h1{
+            font-size:2em;
+            
+        }
+
+        button {
+            background-color:white;
+            border:2px solid black;
+            border-radius:0;
+            width:120px;
+            height:2em;
+            margin-left:5px;
+            
+            
+            span.pre{
+                text-align:left;
+                left:-30px;
+                position:relative;
+            }
+
+            span.next {
+                text-align:right;
+                right:-40px;
+                position:relative;
+
+            }
+
+            span.text {
+                text-shadow:0 1px #808080;
+                vertical-align:central;
+            }
+
+        }
+
+        hr {
+            background-color:gray;
+            color: gray;
+            height: 1px;
+        }
+
+        article {
+
+            h2 {
+                background-color:#808080;
+                margin-top:5px;
+                padding-left:5px;
+                color:white;
+                font-size:1.5em;
+            }
+
+            p{
+                margin-top:1.7em;
+                margin-bottom:1.7em;
+                text-shadow:0 1px #808080;
+            }
+
+            &#first-article {
+                                
+                margin-bottom:30px;
+
+                p {
+                    font-weight:bold;
+                    margin-left:100px;
+                    
+
+                }
+                
+                img {
+                    display:block;
+                    float:left;
+                    width:90px;
+                    
+
+                    &:after {
+                        
+                        display:block;
+                        clear:both;
+                        height:50px;
+                        padding-bottom:20px;
+                        margin-bottom:20px;
+                    }
+                }
+
+                a {
+                    display:inline;
+                    margin-left:10px;
+                }
+                
+            }
+
+            a {
+                display:block;
+                    margin-top:1em;
+                    margin-bottom:1em;
+                    
+                    color:#900B09;
+                    font-weight:bold;
+                }
+       }
+            
+    }
+
+    aside {
+        float:right;
+        width:200px;
+        margin-top:-5px;
+        
+
+        div{
+            border: 1px solid #808080;
+            background-color:white;
+            text-align:center;
+
+            margin:3px;
+            
+            padding:5px;
+            box-shadow: 1px 1px 20px grey;
+
+             h2 {
+                background-color:#808080;
+                margin:-5px;
+                margin-bottom:5px;
+                text-align:center;
+                color:white;
+                font-size:1.5em;
+            }
+
+            a {
+                color:#900B09;
+                    font-weight:bold;
+            }
+
+            input[type=submit] {
+                border:2px solid #003C74;
+                width:17px;
+                font-weight:bold;
+                border-radius:5px;
+                padding-left:1px;
+            }
+           
+            input[type=text] {
+                width:140px;
+            }
+            
+            input[type=button] {
+                display:block;
+                margin-left:1.7em;
+                margin-bottom:5px;
+                width:130px;
+                height:35px;
+                border: 1px double white;
+                outline: 2px solid #3C7FB1;
+                border-radius:3px;
+                background: #95d5f7; /* Old browsers */
+                background: -moz-linear-gradient(left,  #95d5f7 0, #d4f0fe 50%, #95d5f7 100%); /* FF3.6+ */
+                background: -webkit-gradient(linear, left top, right top, color-stop(0,#95d5f7), color-stop(50%,#d4f0fe), color-stop(100%,#95d5f7)); /* Chrome,Safari4+ */
+                background: -webkit-linear-gradient(left,  #95d5f7 0,#d4f0fe 50%,#95d5f7 100%); /* Chrome10+,Safari5.1+ */
+                background: -o-linear-gradient(left,  #95d5f7 0,#d4f0fe 50%,#95d5f7 100%); /* Opera 11.10+ */
+                background: -ms-linear-gradient(left,  #95d5f7 0,#d4f0fe 50%,#95d5f7 100%); /* IE10+ */
+                background: linear-gradient(to right,  #95d5f7 0,#d4f0fe 50%,#95d5f7 100%); /* W3C */
+                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#95d5f7', endColorstr='#95d5f7',GradientType=1 ); /* IE6-9 */
+                font-size:1.4em;
+                color:#0CC1FF;
+                text-shadow:0 1px #3C7FB1;
+                box-shadow: 1px 1px 8px #0b9fd1;
+
+            } 
+        }
+    }
+}

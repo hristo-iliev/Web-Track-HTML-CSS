@@ -1,0 +1,53 @@
+﻿body, table {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #595959;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.gray-text {
+    color:#B0BAB2;
+}
+
+th {
+    font-style:italic;
+    color:#F5FDFF;
+}
+
+table, td, th {
+    border:none;
+    border-spacing: 0;
+    text-align:left;
+
+}
+
+td {
+    padding-left:1.5em;
+}
+
+
+td, th { 
+    vertical-align:text-top;
+    padding-bottom:1.3em;
+}
+
+a, #name {
+    color:#EDCD9D;
+    text-decoration:none;
+}
+
+span.circle {
+    color: #3fd791;
+    font-size:1.2em;
+}
+
+#red {
+    color:red;
+    font-size:1.2em;
+}
+
+#orange {
+    color:orange;
+    font-size:1.2em;
+}

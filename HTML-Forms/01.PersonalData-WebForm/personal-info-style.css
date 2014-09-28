@@ -1,0 +1,33 @@
+﻿td.foot {
+    background-color:#00ff90;
+    text-align:center;
+}
+
+table, td, tr, th, tfoot {
+    border:1px solid black;
+    border-spacing:0px;
+}
+
+#first-name, #last-name {
+    width:21em;
+}
+
+#city {
+    width:14em;
+}
+
+#state {
+    width:4em;
+}
+
+#mon, #day {
+    width:2em;
+}
+
+#year, #tel-country, #tel-area {
+    width:5em;
+}
+
+#tel-num, #zip {
+    width:8em;
+}

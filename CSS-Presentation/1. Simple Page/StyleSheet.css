@@ -1,0 +1,15 @@
+﻿body {
+    color:#0094ff;
+    font-family:Consolas;
+}
+
+p::first-line {
+    font-family:Edwardian Script ITC;
+    font-weight:bold;
+}
+
+p:first-letter {
+    font-family:Old English MT, DejaVu Sans;
+    font-size:150%;
+
+}

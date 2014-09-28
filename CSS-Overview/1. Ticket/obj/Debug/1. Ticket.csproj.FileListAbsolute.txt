@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\CSS-Overview\1. Ticket\bin\_1.Ticket.dll.config
+D:\ПРОГРАМИСТ\WEB\CSS-Overview\1. Ticket\bin\_1.Ticket.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Overview\1. Ticket\bin\_1.Ticket.pdb
+D:\ПРОГРАМИСТ\WEB\CSS-Overview\1. Ticket\obj\Debug\1. Ticket.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\WEB\CSS-Overview\1. Ticket\obj\Debug\_1.Ticket.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Overview\1. Ticket\obj\Debug\_1.Ticket.pdb

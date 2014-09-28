@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\HTML-Semantic\03.HM-Design2\bin\03.HM-Design2.dll.config
+D:\ПРОГРАМИСТ\WEB\HTML-Semantic\03.HM-Design2\bin\03.HM-Design2.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Semantic\03.HM-Design2\bin\03.HM-Design2.pdb
+D:\ПРОГРАМИСТ\WEB\HTML-Semantic\03.HM-Design2\obj\Debug\03.HM-Design2.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Semantic\03.HM-Design2\obj\Debug\03.HM-Design2.pdb
+D:\ПРОГРАМИСТ\WEB\HTML-Semantic\03.HM-Design2\obj\Debug\03.HM-Design2.csprojResolveAssemblyReference.cache

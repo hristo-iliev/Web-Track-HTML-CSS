@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\6. BTV News\bin\_6.BTV_News.dll.config
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\6. BTV News\bin\_6.BTV_News.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\6. BTV News\bin\_6.BTV_News.pdb
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\6. BTV News\obj\Debug\6. BTV News.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\6. BTV News\obj\Debug\_6.BTV_News.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\6. BTV News\obj\Debug\_6.BTV_News.pdb

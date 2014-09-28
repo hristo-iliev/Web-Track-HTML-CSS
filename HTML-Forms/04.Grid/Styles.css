@@ -1,0 +1,75 @@
+﻿input.text-box {
+	height:1.8em;
+}
+
+th.head {
+	font-weight:100;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+tfoot a:hover 
+{
+	border: 1px solid red;
+}
+
+th {
+	text-align:left;
+}
+button.button-kuka {
+	background-image: url(Photos/f-w-fast-js.png);
+	background-repeat:no-repeat;
+	text-align:center;
+	align-content:center; 
+	width:1.9em;
+	height:1.9em;  
+	
+}
+
+tfoot span {
+	float:right;
+	width:15em;
+	height:1.5em;
+	text-align:right;
+	padding-right:0.5em;
+	
+	
+}
+
+table, tfoot, th, td {
+	border: 1px solid #a4abb2;
+	border-spacing: 0px;
+	border-collapse: collapse;
+	
+}
+
+#id {
+	width:4em;
+}
+
+#normal-text-box {
+	width:6em;
+}
+
+th {
+	vertical-align:middle;
+}
+
+thead, tfoot {
+	vertical-align:middle;
+	background-image: -webkit-gradient(
+		linear,
+		left top,
+		left bottom,
+		color-stop(0.12, #FFFFFF),
+		color-stop(0.56, #D8E5E6)
+	);
+	background-image: -o-linear-gradient(bottom, #FFFFFF 12%, #D8E5E6 56%);
+	background-image: -moz-linear-gradient(bottom, #FFFFFF 12%, #D8E5E6 56%);
+	background-image: -webkit-linear-gradient(bottom, #FFFFFF 12%, #D8E5E6 56%);
+	background-image: -ms-linear-gradient(bottom, #FFFFFF 12%, #D8E5E6 56%);
+	background-image: linear-gradient(to bottom, #FFFFFF 12%, #D8E5E6 56%);
+}

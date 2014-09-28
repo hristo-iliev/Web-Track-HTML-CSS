@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\04.Grid\bin\04.Grid.dll.config
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\04.Grid\bin\04.Grid.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\04.Grid\bin\04.Grid.pdb
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\04.Grid\obj\Debug\04.Grid.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\04.Grid\obj\Debug\04.Grid.pdb
+D:\ПРОГРАМИСТ\WEB\HTML-Forms\04.Grid\obj\Debug\04.Grid.csprojResolveAssemblyReference.cache

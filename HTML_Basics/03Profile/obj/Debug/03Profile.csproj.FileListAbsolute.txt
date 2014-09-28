@@ -1,0 +1,6 @@
+C:\Users\Hristo\documents\visual studio 2013\Projects\HTML_Basics\03Profile\bin\03Profile.dll.config
+C:\Users\Hristo\documents\visual studio 2013\Projects\HTML_Basics\03Profile\bin\03Profile.dll
+C:\Users\Hristo\documents\visual studio 2013\Projects\HTML_Basics\03Profile\bin\03Profile.pdb
+C:\Users\Hristo\documents\visual studio 2013\Projects\HTML_Basics\03Profile\obj\Debug\03Profile.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\documents\visual studio 2013\Projects\HTML_Basics\03Profile\obj\Debug\03Profile.dll
+C:\Users\Hristo\documents\visual studio 2013\Projects\HTML_Basics\03Profile\obj\Debug\03Profile.pdb

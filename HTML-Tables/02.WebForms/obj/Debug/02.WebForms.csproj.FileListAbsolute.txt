@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\HTML-Tables\02.WebForms\bin\02.WebForms.dll.config
+D:\ПРОГРАМИСТ\WEB\HTML-Tables\02.WebForms\bin\02.WebForms.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Tables\02.WebForms\bin\02.WebForms.pdb
+D:\ПРОГРАМИСТ\WEB\HTML-Tables\02.WebForms\obj\Debug\02.WebForms.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\WEB\HTML-Tables\02.WebForms\obj\Debug\02.WebForms.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Tables\02.WebForms\obj\Debug\02.WebForms.pdb

@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\List Images\List Images\bin\List Images.dll.config
+D:\ПРОГРАМИСТ\WEB\List Images\List Images\bin\List Images.dll
+D:\ПРОГРАМИСТ\WEB\List Images\List Images\bin\List Images.pdb
+D:\ПРОГРАМИСТ\WEB\List Images\List Images\obj\Debug\List Images.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\WEB\List Images\List Images\obj\Debug\List Images.dll
+D:\ПРОГРАМИСТ\WEB\List Images\List Images\obj\Debug\List Images.pdb

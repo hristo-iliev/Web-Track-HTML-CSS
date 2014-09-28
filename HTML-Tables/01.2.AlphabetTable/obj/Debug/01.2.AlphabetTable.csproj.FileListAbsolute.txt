@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\WEB\HTML-Tables\01.2.AlphabetTable\bin\01.2.AlphabetTable.dll.config
+D:\ПРОГРАМИСТ\WEB\HTML-Tables\01.2.AlphabetTable\bin\01.2.AlphabetTable.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Tables\01.2.AlphabetTable\bin\01.2.AlphabetTable.pdb
+D:\ПРОГРАМИСТ\WEB\HTML-Tables\01.2.AlphabetTable\obj\Debug\01.2.AlphabetTable.dll
+D:\ПРОГРАМИСТ\WEB\HTML-Tables\01.2.AlphabetTable\obj\Debug\01.2.AlphabetTable.pdb

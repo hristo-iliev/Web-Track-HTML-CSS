@@ -1,0 +1,10 @@
+﻿body {
+}
+
+ul.disc {
+    list-style-type:disc;
+}
+
+ul.sing-up {
+    font-weight:bold;
+}

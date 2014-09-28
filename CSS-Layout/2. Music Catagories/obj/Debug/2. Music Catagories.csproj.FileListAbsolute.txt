@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\2. Music Catagories\bin\_2.Music_Catagories.dll.config
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\2. Music Catagories\bin\_2.Music_Catagories.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\2. Music Catagories\bin\_2.Music_Catagories.pdb
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\2. Music Catagories\obj\Debug\2. Music Catagories.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\2. Music Catagories\obj\Debug\_2.Music_Catagories.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Layout\2. Music Catagories\obj\Debug\_2.Music_Catagories.pdb

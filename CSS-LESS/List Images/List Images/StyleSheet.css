@@ -1,0 +1,23 @@
+﻿body section ul {
+  list-style-type: none;
+  position: relative;
+}
+body section ul li {
+  display: inline;
+}
+body section ul li img {
+  width: 200px;
+  height: 150px;
+}
+body section ul li div {
+  display: none;
+  position: absolute;
+}
+body section ul li div img {
+  width: 600px;
+  height: auto;
+}
+body section ul li:hover div {
+  display: block;
+}
+/*# sourceMappingURL=StyleSheet.css.map */

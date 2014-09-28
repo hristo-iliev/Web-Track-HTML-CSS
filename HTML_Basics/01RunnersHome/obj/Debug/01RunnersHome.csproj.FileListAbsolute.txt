@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\HTML_Basics\01RunnersHome\bin\01RunnersHome.dll.config
+c:\users\hristo\documents\visual studio 2013\Projects\HTML_Basics\01RunnersHome\bin\01RunnersHome.dll
+c:\users\hristo\documents\visual studio 2013\Projects\HTML_Basics\01RunnersHome\bin\01RunnersHome.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\HTML_Basics\01RunnersHome\obj\Debug\01RunnersHome.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\HTML_Basics\01RunnersHome\obj\Debug\01RunnersHome.dll
+c:\users\hristo\documents\visual studio 2013\Projects\HTML_Basics\01RunnersHome\obj\Debug\01RunnersHome.pdb

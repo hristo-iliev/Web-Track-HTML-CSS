@@ -1,0 +1,75 @@
+﻿body {
+  margin: 0;
+  padding: 0;
+  height: 560px;
+  width: 750px;
+  border: 1px solid orange;
+  font-family: Cambria, 'Times New Roman', 'Nimbus Roman No9 L', 'Freeserif', Times, serif;
+}
+body header {
+  margin: 0;
+  padding: 0;
+}
+body header form {
+  background: #1c1c1c;
+  /* Old browsers */
+  background: -moz-linear-gradient(left, #1c1c1c 0, #2c2d2d 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0, #1c1c1c), color-stop(100%, #2c2d2d));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left, #1c1c1c 0, #2c2d2d 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left, #1c1c1c 0, #2c2d2d 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(left, #1c1c1c 0, #2c2d2d 100%);
+  /* IE10+ */
+  background: linear-gradient(to right, #1c1c1c 0, #2c2d2d 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1c1c1c', endColorstr='#2c2d2d', GradientType=1);
+  /* IE6-9 */
+  border-bottom-style: double;
+}
+body header form img {
+  width: 75px;
+  padding: 20px 15px;
+  vertical-align: middle;
+}
+body header form span {
+  font-size: 25px;
+  color: white;
+  padding-left: 15px;
+  vertical-align: middle;
+}
+body header form input[type=text],
+body header form input[type=email] {
+  margin-left: 20px;
+  margin-right: 20px;
+  vertical-align: middle;
+  padding-left: 5px;
+}
+body header form input[type=image] {
+  width: 40px;
+  border: 2px solid white;
+  border-radius: 45px;
+  vertical-align: middle;
+}
+body section {
+  padding: 10px;
+  margin: 0;
+  background-color: #3B3B3B;
+}
+body section h1 {
+  color: #FBD51A;
+  margin: 0;
+  padding-top: 20px;
+  font-size: 24px;
+}
+body section p {
+  width: 650px;
+  color: #A5A5A5;
+}
+body section p a {
+  text-decoration: none;
+  color: white;
+}
+/*# sourceMappingURL=StyleSheet1.css.map */

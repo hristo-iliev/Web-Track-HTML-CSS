@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\4. Calculator\bin\_4.Calculator.dll.config
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\4. Calculator\bin\_4.Calculator.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\4. Calculator\bin\_4.Calculator.pdb
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\4. Calculator\obj\Debug\4. Calculator.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\4. Calculator\obj\Debug\_4.Calculator.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\4. Calculator\obj\Debug\_4.Calculator.pdb

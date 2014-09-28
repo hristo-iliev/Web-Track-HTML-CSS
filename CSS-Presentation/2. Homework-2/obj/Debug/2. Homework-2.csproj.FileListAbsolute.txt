@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\2. Homework-2\bin\_2.Homework_2.dll.config
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\2. Homework-2\bin\_2.Homework_2.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\2. Homework-2\bin\_2.Homework_2.pdb
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\2. Homework-2\obj\Debug\_2.Homework_2.dll
+D:\ПРОГРАМИСТ\WEB\CSS-Presentation\2. Homework-2\obj\Debug\_2.Homework_2.pdb
